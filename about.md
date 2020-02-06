@@ -12,7 +12,6 @@ functional network during working memory task performance*). In my research I am
 and expertise are reflected in the organization of the human brain functional network. 
 I enjoy data analysis (Python, R, MATLAB) and I am actively engaged in developing open-souce neuroimaging tools.
 I spend my spare time on electronic music production, nature photography, reading, or having fun with my dogs.<br> <br>
-</p>
 
 ### Research interest
 

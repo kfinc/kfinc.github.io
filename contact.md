@@ -8,7 +8,7 @@ title: Contact
 <a href="https://icnt.umk.pl/en/">Centre for Modern Interdisciplinary Technologies</a><br>
 <a href="https://www.umk.pl/en/"> Nicolaus Copernicus University in Toruń (Poland)<br> 
 
-email: [finc@umk.pl](finc@umk.pl)  
+email: finc@umk.pl  
 twitter: [@karofinc](https://twitter.com/karofinc)
 
 <!---

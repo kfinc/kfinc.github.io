@@ -5,7 +5,7 @@ Nicolaus Copernicus University, Toruń, Poland. In October 2019 I obtained my Ph
 Astronomy and Informatics, Nicolaus Copernicus University in Toruń (thesis: *Dynamics and plasticity of human brain 
 functional network during working memory task performance*). In my research I am interested how learning 
 and expertise are reflected in the organization of the human brain functional network. 
-I enjoy data analysis (Python, R, MATLAB) and I am actively engaged in developing open-souce neuroimaging tools.
+I enjoy data analysis (Python, R, MATLAB) and I am actively engaged in developing open-source neuroimaging tools.
 I spend my spare time on electronic music production, nature photography, reading, or having fun with my dogs.<br> <br>
 
 ### Research interests:

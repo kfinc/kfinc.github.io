@@ -4,12 +4,12 @@ title: Contact
 ---
 <br><br> 
 <br>Karolina Finc, PhD <br> 
-<br>Leader of the <a href="http://compneuro.umk.pl/">Computational Neuroimaging Team</a><br> <br> 
-<br>Centre for Modern Interdisciplinary Technologies,<br>  
-<br>Nicolaus Copernicus University in Toruń (Poland)  <br> 
+<a href="http://compneuro.umk.pl/">Computational Neuroimaging Team</a><br>
+<a href="https://icnt.umk.pl/en/">Centre for Modern Interdisciplinary Technologies</a><br>
+<a href="https://www.umk.pl/en/"> Nicolaus Copernicus University in Toruń (Poland)<br> 
 
-email: finc@umk.pl  
-twitter: @karofinc  
+email: [finc@umk.pl](finc@umk.pl)  
+twitter: [@karofinc](https://twitter.com/karofinc)
 
 <!---
 <p class="message">

@@ -1,8 +1,3 @@
----
-layout: page
-title: About
----
-<br><br>
 ### Hi!
 
 I am cognitive neuroscientist working at the Centre for Modern Interdisciplinary Technologies at 

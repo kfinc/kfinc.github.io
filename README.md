@@ -21,5 +21,5 @@ I spend my spare time on electronic music production, nature photography, readin
 <a href="https://github.com/kfinc/CV/blob/master/Finc_CV.pdf">CV</a><br>
 <a href="http://compneuro.umk.pl/">Computational Neuroimaging Team</a><br>
 <a href="https://scholar.google.pl/citations?user=mBE4nHsAAAAJ&hl=pl">Scholar</a><br>
-<a href="https://github.com/kfinc/kfinc.github.io">GitHub</a><br>
+<a href="https://github.com/kfinc">GitHub</a><br>
 <a href="https://www.winrepo.org/list/748/">Women in Neuroscience Repo </a><br>

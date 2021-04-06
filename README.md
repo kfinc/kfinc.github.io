@@ -10,7 +10,7 @@ I spend my spare time on playing analog synths, nature photography, and having f
 
 ### Research interests:
 
-* **Network neuroscience**: Plasticity of the human brain networks, reorganization of functional brain network during cognition
+* **Network neuroscience**: Reorganization of functional brain network during experience, network modularity
 * **Neuroplasticity**: Experience-dependent plasticity, compensatory brain plasticity
 * **Cognition**: Learning, offline memory replay, decision making, working memory, consciousness 
 * **Data science**: Network analysis, machine learning, data visualization, bayesian statistics

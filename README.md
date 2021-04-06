@@ -12,7 +12,7 @@ I spend my spare time on playing analog synths, nature photography, and having f
 
 * **Network neuroscience**: Reorganization of functional brain network during experience, network modularity
 * **Neuroplasticity**: Experience-dependent plasticity, compensatory brain plasticity
-* **Cognition**: Learning, offline memory replay, decision making, working memory, consciousness 
+* **Cognition**: Learning, memory replay, decision making, working memory, consciousness 
 * **Data science**: Network analysis, machine learning, data visualization, bayesian statistics
 * **Open science**: Reproducible neuroimaging, building open-source software 
 

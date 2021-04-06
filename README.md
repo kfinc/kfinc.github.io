@@ -14,7 +14,7 @@ I spend my spare time playing analog synths, nature photography, and having fun 
 * **Neuroplasticity**: Experience-dependent plasticity, compensatory brain plasticity
 * **Cognition**: Learning, offline memory replay, decision making, working memory, consciousness 
 * **Data science**: Network analysis, machine learning, data visualization, bayesian statistics
-* **Open science**: Reproducible neuroimaginv, building open-source software 
+* **Open science**: Reproducible neuroimaging, building open-source software 
 
 ### Read more:
 

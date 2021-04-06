@@ -6,7 +6,7 @@ Astronomy and Informatics, Nicolaus Copernicus University in Toruń (thesis: *Dy
 functional network during working memory task performance*). In my research I am interested how learning 
 and expertise are reflected in the organization of the human brain functional network. 
 I enjoy data analysis (Python, R) and I am actively engaged in developing open-source neuroimaging tools.
-I spend my spare time playing analog synths, nature photography, and having fun with my dogs.
+I spend my spare time on playing analog synths, nature photography, and having fun with my dogs.
 
 ### Research interests:
 

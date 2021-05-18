@@ -1,20 +1,9 @@
 ### Hi!
 
-I am cognitive neuroscientist working at the Centre for Modern Interdisciplinary Technologies at 
-Nicolaus Copernicus University, Toruń, Poland. In October 2019 I obtained my Ph.D. in Physics at the Faculty of Physics,
-Astronomy and Informatics, Nicolaus Copernicus University in Toruń (thesis: *Dynamics and plasticity of human brain 
-functional network during working memory task performance*). In my research I am interested how learning 
-and expertise are reflected in the organization of the human brain functional network. 
-I enjoy data analysis (Python, R) and I am actively engaged in developing open-source neuroimaging tools.
-I spend my spare time on playing analog synths, nature photography, and having fun with my dogs.
+I'm a cognitive scientist working at the Centre for Modern Interdisciplinary Technologies at Nicolaus Copernicus University, Toruń, Poland. 
+In my research I want to understand how the network organization and dynamics shape our experience (and vice versa). To achieve this goal, I combine achievements from network science, neuroimaging, and deep learning. I'm especially interested in discovering rules that govern the brain network reorganization during changing cognitive demands and learning. 
 
-### Research interests:
-
-* **Network neuroscience**: Reorganization of functional brain network during experience, network modularity
-* **Neuroplasticity**: Experience-dependent plasticity, compensatory brain plasticity
-* **Cognition**: Learning, memory replay, decision making, working memory, consciousness 
-* **Data science**: Network analysis, machine learning, data visualization, bayesian statistics
-* **Open science**: Reproducible neuroimaging, building open-source software 
+Beyond neuroscience I'm passionate about music, human creativity, philosophy, nature, and mathematics. I love to play around with various instruments, especially analog synthesizers.
 
 ### Read more:
 

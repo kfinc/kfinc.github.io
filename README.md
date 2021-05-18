@@ -5,7 +5,7 @@ In my research I want to understand how the network organization and dynamics sh
 
 Beyond neuroscience I'm passionate about music, human creativity, philosophy, nature, and mathematics. I love to play around with various instruments, especially analog synthesizers.
 
-### Read more:
+### Links:
 
 <a href="https://github.com/kfinc/CV/blob/master/Finc_CV.pdf">CV</a><br>
 <a href="https://scholar.google.pl/citations?user=mBE4nHsAAAAJ&hl=pl">Scholar</a><br>

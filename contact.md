@@ -4,7 +4,7 @@ title: Contact
 ---
 <br><br> 
 <br>Karolina Finc, PhD <br> 
-<a href="http://compneuro.umk.pl/">Computational Neuroimaging Team</a><br>
+Phi Lab<br>
 <a href="https://icnt.umk.pl/en/">Centre for Modern Interdisciplinary Technologies</a><br>
 <a href="https://www.umk.pl/en/"> Nicolaus Copernicus University in Toruń (Poland)<br> 
 

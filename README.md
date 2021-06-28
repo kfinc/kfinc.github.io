@@ -7,7 +7,8 @@ Beyond neuroscience I'm passionate about music, human creativity, philosophy, na
 
 ### Links:
 
+Phi Lab [website available soon!]
 <a href="https://github.com/kfinc/CV/blob/master/Finc_CV.pdf">CV</a><br>
 <a href="https://scholar.google.pl/citations?user=mBE4nHsAAAAJ&hl=pl">Scholar</a><br>
 <a href="https://github.com/kfinc">GitHub</a><br>
-<a href="http://compneuro.umk.pl/">Computational Neuroimaging Team</a><br>
+

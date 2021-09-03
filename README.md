@@ -1,9 +1,7 @@
 ### Hi!
 
 I'm a cognitive scientist working at the Centre for Modern Interdisciplinary Technologies at Nicolaus Copernicus University, Toruń, Poland. 
-In my research I want to understand how the network organization and dynamics shape our experience (and vice versa). To achieve this goal, I combine tools from network science, neuroimaging, and deep learning. I'm especially interested in discovering rules that govern the brain network reorganization during changing cognitive demands and learning. 
-
-Beyond neuroscience, I'm passionate about music, human creativity, philosophy, nature, photography, dance, and mathematics. I love to play around with various instruments, especially analog synthesizers.
+In my research I want to understand how the network organization and dynamics shape our experience. I’m also passionate about human creativity, music, philosophy, nature, photography, dance, and singing. I love to improvise in every domain of my life - from playing around with various instruments to combining seemingly distant concepts in science.
 
 ### Links:
 

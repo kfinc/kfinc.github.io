@@ -8,8 +8,7 @@ Phi Lab<br>
 <a href="https://icnt.umk.pl/en/">Centre for Modern Interdisciplinary Technologies</a><br>
 <a href="https://www.umk.pl/en/"> Nicolaus Copernicus University in Toruń (Poland)<br> 
 
-email: finc@umk.pl  
-twitter: [@karofinc](https://twitter.com/karofinc)
+<i class="fa fa-envelope-o"></i><a href="mailto:finc@umk.pl"> finc@umk.pl</a><br>
 
 <!---
 <p class="message">

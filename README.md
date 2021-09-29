@@ -5,7 +5,7 @@ In my research I want to understand how the network organization and dynamics sh
 
 ### Links:
 
-Phi Lab [website available soon!]<br> 
+<a href="https://phi-ncu.github.io/"> Phi Lab</a><br> 
 <a href="https://github.com/kfinc/CV/blob/master/Finc_CV.pdf">CV</a><br>
 <a href="https://scholar.google.pl/citations?user=mBE4nHsAAAAJ&hl=pl">Scholar</a><br>
 <a href="https://github.com/kfinc">GitHub</a><br>
